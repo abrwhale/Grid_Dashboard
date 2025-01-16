@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid_Dashboard", "Grid_Dashboard\Grid_Dashboard.csproj", "{D133BCE3-89A6-4EFB-A304-B66AE7D73DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingCanvas", "DrawingCanvas\DrawingCanvas.csproj", "{FDFCE6E0-63F9-495E-B2C4-92562C2E293A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D133BCE3-89A6-4EFB-A304-B66AE7D73DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D133BCE3-89A6-4EFB-A304-B66AE7D73DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D133BCE3-89A6-4EFB-A304-B66AE7D73DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D133BCE3-89A6-4EFB-A304-B66AE7D73DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFCE6E0-63F9-495E-B2C4-92562C2E293A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFCE6E0-63F9-495E-B2C4-92562C2E293A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFCE6E0-63F9-495E-B2C4-92562C2E293A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFCE6E0-63F9-495E-B2C4-92562C2E293A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
